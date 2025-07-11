@@ -1,9 +1,9 @@
-##Menu
+##hotfix/fix-bug-menu
 
 {
     "menu": [
         {
-            "storeName": "Nike",
+            "storeName": "Tienda Nike",
             "categories": [
                 {
                     "name": "Zapatillas",
@@ -12,13 +12,13 @@
                             "id": "Z001",
                             "name": "Nike jordan",
                             "price": 600,
-                            "stock": 10,
-                            "talles": {
-                                "talle": "40",
-                                "talle": "41",
-                                "talle": "42",
-                                "talle": "43",
-                                "talle": "44"
+                            "stock": {
+                                "talle": "39" 2,
+                                "talle": "40" 10,
+                                "talle": "41" 0,
+                                "talle": "42" 5,
+                                "talle": "43" 5,
+                                "talle": "44" 0
                             }
                         }
                     ]
@@ -31,3 +31,5 @@
         }
     ]
 }
+
+#CORRECCIO: agregamos los talles a stock y especificamos cuanto stock habia por talle.
