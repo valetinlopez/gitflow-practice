@@ -1,22 +1,24 @@
-##LOGIN
+##hotfix/fix-bug-login
 
 {
     "login": [
         {
             "userName": "valen03",
-            "password": "*******",
+            "password": "v310103bol",
             "mail": "valen03@gmail.com",
             "name": "Valentin",
             "apellido": "lopez",
             "locality": "bolivar"
         },
         {
-           "userName": "",
-            "password": "",
-            "mail": "",
-            "name": "",
-            "surname": "",
-            "locality": "" 
+           "userName": "juanperez1",
+            "password": "jua1perez12",
+            "mail": "juanpe1@hotmail.com",
+            "name": "Juan",
+            "surname": "Perez",
+            "locality": "urdampilleta" 
         }
     ]
 }
+
+#corregimos que que la contrasena permita solo numeros y letras. y al menos 8 caracteres.
