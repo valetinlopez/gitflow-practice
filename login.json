@@ -1,0 +1,22 @@
+##LOGIN
+
+{
+    "login": [
+        {
+            "userName": "valen03",
+            "password": "*******",
+            "mail": "valen03@gmail.com",
+            "name": "Valentin",
+            "apellido": "lopez",
+            "locality": "bolivar"
+        },
+        {
+           "userName": "",
+            "password": "",
+            "mail": "",
+            "name": "",
+            "surname": "",
+            "locality": "" 
+        }
+    ]
+}
