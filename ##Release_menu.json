@@ -1,0 +1,47 @@
+##Release_menu.json
+
+{
+    "menu": [
+        {
+            "storeName": "Nike",
+            "categories": [
+                {
+                    "name": "Zapatillas",
+                    "products": [
+                        {
+                            "id": "Z001",
+                            "name": "Nike jordan",
+                            "price": 600,
+                            "stock": 10,
+                            "talles": {
+                                "talle": "40",
+                                "talle": "41",
+                                "talle": "42",
+                                "talle": "43",
+                                "talle": "44"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+                "name": "Casmisetas",
+                "products": [
+                {
+                            "id": "R001",
+                            "name": "Camiseta de CASLA titular 2025",
+                            "price": 150,
+                            "stock": 200,
+                            "talles": {
+                                "talle": "16",
+                                "talle": "S",
+                                "talle": "M",
+                                "talle": "L",
+                                "talle": "XL" 
+                                } 
+                }
+            ]
+        }
+    ]
+}
