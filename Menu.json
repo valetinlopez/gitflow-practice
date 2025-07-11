@@ -1,0 +1,33 @@
+##Menu
+
+{
+    "menu": [
+        {
+            "storeName": "Nike",
+            "categories": [
+                {
+                    "name": "Zapatillas",
+                    "products": [
+                        {
+                            "id": "Z001",
+                            "name": "Nike jordan",
+                            "price": 600,
+                            "stock": 10,
+                            "talles": {
+                                "talle": "40",
+                                "talle": "41",
+                                "talle": "42",
+                                "talle": "43",
+                                "talle": "44"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "remeras",
+            "products": []
+        }
+    ]
+}
